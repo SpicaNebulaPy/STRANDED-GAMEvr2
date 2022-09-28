@@ -1,4 +1,4 @@
-# STRANDEDvr2
+# STRANDED-GAME-vr2
 My Project Name
 STRANDED-GAME
 
