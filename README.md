@@ -10,7 +10,7 @@ A game first hand shooter game. player begins on an island and must find objects
 Goals for Version 1
 Be able to have a island that the player can intereact with and collect objects, once completed collection it will peomt the ship to start up this can be done with if , else , etc 
 
-The simpilist version of project will be character walking around and physiscs is correct so player isnt falling through the floor 
+The simpilist version of project will be character walking around and physiscs is correct so player isnt falling through MAQP 
 
 Libraries / Other Technology Needed
 Unreal, Megascans, Marvelous Designer, iClone, blender  
